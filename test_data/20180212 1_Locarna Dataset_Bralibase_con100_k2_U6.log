@@ -1,0 +1,1054 @@
+Benchmark Pilot (Version 0.1) logfile
+=============================================
+
+Run Info:
+=========
+Time:	12.2.2018 16:54
+Tool:	Locarna
+Dataset:	ModifiedBralibase/k2/U6
+
+Starting run over 11 datapoints (in 1 chunks)
+56 parameter sets will be tested.
+56 cluster jobs will be startet, issuing 616 single Locarna calls
+
+ENTERING MAIN LOOP:
+
+===================
+
+
+Testing the following parameters:
+struct_cost 0,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.742857142857143	0.742857142857143	6561	82	87	203	122	120	202	6561	203	100	100	304	202	104	103	303	83	82	0	200	22	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+Current Best
+
+
+### Testing the following parameters: ###
+struct_cost 5,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.742857142857143	0.742857142857143	6561	82	87	203	122	120	202	6561	203	100	100	304	202	104	103	303	83	82	0	200	22	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 10,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6579	82	87	203	94	94	202	6579	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 15,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6597	82	87	203	94	94	202	6597	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 20,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6615	82	87	203	94	94	202	6615	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 25,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6635	82	87	203	94	94	202	6635	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 30,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6653	82	87	203	94	94	202	6653	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 35,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6671	82	87	203	94	94	202	6671	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 40,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6832	83	84	196	114	125	206	6832	196	94	100	303	206	103	107	307	82	83	0	200	20	200	0	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6689	82	87	203	94	94	202	6689	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 45,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6841	83	84	197	114	125	207	6841	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6707	82	87	203	94	94	202	6707	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 50,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7282	83	87	206	117	112	202	7282	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6851	83	84	197	114	125	207	6851	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6725	82	87	203	94	94	202	6725	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 55,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7301	83	87	206	117	112	202	7301	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6859	83	84	197	114	125	207	6859	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6743	82	87	203	94	94	202	6743	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 60,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7321	83	87	206	117	112	202	7321	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10789	95	110	204	105	105	204	10789	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6869	83	84	197	114	125	207	6869	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6761	82	87	203	94	94	202	6761	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 65,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7341	83	87	206	117	112	202	7341	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10813	95	110	204	105	105	204	10813	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6878	83	84	197	114	125	207	6878	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6781	82	87	203	94	94	202	6781	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 70,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7361	83	87	206	117	112	202	7361	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10845	95	110	204	105	105	204	10845	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6887	83	84	197	114	125	207	6887	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6799	82	87	203	94	94	202	6799	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 75,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7381	83	87	206	117	112	202	7381	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10880	95	110	204	105	105	204	10880	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6896	83	84	197	114	125	207	6896	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6817	82	87	203	94	94	202	6817	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 80,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7401	83	87	206	117	112	202	7401	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10915	95	110	204	105	105	204	10915	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6904	83	84	197	114	125	207	6904	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6835	82	87	203	94	94	202	6835	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 85,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7421	83	87	206	117	112	202	7421	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	10967	95	110	204	105	105	204	10967	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6913	83	84	197	114	125	207	6913	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6862	82	87	203	94	94	202	6862	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 90,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7441	83	87	206	117	112	202	7441	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11024	95	110	204	105	105	204	11024	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6923	83	84	197	114	125	207	6923	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6899	82	87	203	94	94	202	6899	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 95,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7466	83	87	206	117	112	202	7466	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6842	83	78	179	111	105	173	6842	202	100	95	303	197	103	103	303	69	69	0	200	34	200	0	34
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11088	95	110	204	105	105	204	11088	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6932	83	84	197	114	125	207	6932	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6935	82	87	203	94	94	202	6935	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 100,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7505	83	87	206	117	112	202	7505	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.644230769230769	0.644230769230769	7017	80	86	181	115	115	181	7017	198	100	95	299	197	99	103	303	67	67	0	200	32	200	0	36
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6867	83	78	179	100	95	173	6867	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11169	95	110	204	105	105	204	11169	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6941	83	84	197	114	125	207	6941	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	6971	82	87	203	94	94	202	6971	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 105,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7541	83	87	206	117	112	202	7541	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7042	80	86	197	115	115	197	7042	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6902	83	78	179	100	95	173	6902	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11275	95	110	204	105	105	204	11275	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6950	83	84	197	114	125	207	6950	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7016	82	87	203	94	94	202	7016	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 110,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7581	83	87	206	117	112	202	7581	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7067	80	86	197	115	115	197	7067	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6936	83	78	179	100	95	173	6936	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11382	95	110	204	105	105	204	11382	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6959	83	84	197	114	125	207	6959	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7080	82	87	203	94	94	202	7080	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 115,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7621	83	87	206	117	112	202	7621	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7093	80	86	197	115	115	197	7093	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	6985	83	78	179	100	95	173	6985	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11489	95	110	204	105	105	204	11489	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6969	83	84	197	114	125	207	6969	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7152	82	87	203	94	94	202	7152	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 120,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7659	83	87	206	117	112	202	7659	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7119	80	86	197	115	115	197	7119	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	7034	83	78	179	100	95	173	7034	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11610	95	110	204	105	105	204	11610	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6976	83	84	197	114	125	207	6976	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7223	82	87	203	94	94	202	7223	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 125,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7699	83	87	206	117	112	202	7699	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7144	80	86	197	115	115	197	7144	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	7084	83	78	179	100	95	173	7084	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11739	95	110	204	105	105	204	11739	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6986	83	84	197	114	125	207	6986	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7293	82	87	203	94	94	202	7293	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 130,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7739	83	87	206	117	112	202	7739	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7171	80	86	197	115	115	197	7171	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	7145	83	78	179	100	95	173	7145	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	11893	95	110	204	105	105	204	11893	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	6993	83	84	197	114	125	207	6993	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7365	82	87	203	94	94	202	7365	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 135,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7778	83	87	206	117	112	202	7778	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7201	80	86	197	115	115	197	7201	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	7220	83	78	179	100	95	173	7220	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	12056	95	110	204	105	105	204	12056	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	7003	83	84	197	114	125	207	7003	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7436	82	87	203	94	94	202	7436	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8773	89	99	208	100	113	222	8773	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 140,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7818	83	87	206	117	112	202	7818	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7247	80	86	197	115	115	197	7247	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.657142857142857	0.657142857142857	7291	83	78	179	100	95	173	7291	202	100	95	303	197	103	103	303	79	80	0	200	23	200	0	24
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	12223	95	110	204	105	105	204	12223	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	7013	83	84	197	114	125	207	7013	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7512	82	87	203	94	94	202	7512	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8785	89	99	208	100	113	222	8785	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 145,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7858	83	87	206	117	112	202	7858	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7300	80	86	197	115	115	197	7300	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	7380	83	78	235	100	95	218	7380	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	12397	95	110	204	105	105	204	12397	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.722222222222222	0.722222222222222	7021	83	84	197	114	125	207	7021	196	94	100	303	206	103	107	307	82	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7597	82	87	203	94	94	202	7597	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8800	89	99	208	100	113	222	8800	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 150,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7898	83	87	206	117	112	202	7898	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7353	80	86	197	115	115	197	7353	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	7598	83	78	235	100	95	218	7598	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	12588	95	110	204	105	105	204	12588	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7039	83	84	197	95	104	207	7039	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7675	82	87	203	94	94	202	7675	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8812	89	99	208	100	113	222	8812	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 155,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7937	83	87	206	117	112	202	7937	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7407	80	86	197	115	115	197	7407	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	7805	83	78	235	100	95	218	7805	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	12769	95	110	204	105	105	204	12769	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7076	83	84	197	95	104	207	7076	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7756	82	87	203	94	94	202	7756	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8827	89	99	208	100	113	222	8827	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 160,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	7977	83	87	206	117	112	202	7977	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7460	80	86	197	115	115	197	7460	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	8017	83	78	235	100	95	218	8017	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	12957	95	110	204	105	105	204	12957	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7116	83	84	197	95	104	207	7116	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7835	82	87	203	94	94	202	7835	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8841	89	99	208	100	113	222	8841	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.568807339449541	0.568807339449541	6985	86	72	247	185	114	176	6985	267	161	100	307	198	107	99	299	63	63	0	200	44	200	0	36
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 165,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8016	83	87	206	117	112	202	8016	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7515	80	86	197	115	115	197	7515	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.703703703703704	0.703703703703704	4650	77	70	198	115	125	206	4650	197	95	100	303	205	103	106	306	81	83	1	199	20	199	1	25
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	8236	83	78	235	100	95	218	8236	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	13141	95	110	204	105	105	204	13141	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7153	83	84	197	95	104	207	7153	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7915	82	87	203	94	94	202	7915	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8854	89	99	208	100	113	222	8854	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7004	86	72	247	176	106	176	7004	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 170,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8056	83	87	206	117	112	202	8056	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7569	80	86	197	115	115	197	7569	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4654	77	70	198	93	102	206	4654	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	8464	83	78	235	100	95	218	8464	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	13342	95	110	204	105	105	204	13342	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7193	83	84	197	95	104	207	7193	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	7995	82	87	203	94	94	202	7995	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8879	89	99	208	100	113	222	8879	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7028	86	72	247	176	106	176	7028	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 175,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8094	83	87	206	117	112	202	8094	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.841121495327103	9936	92	88	213	117	114	210	9936	206	100	100	307	203	107	104	304	90	90	7	193	17	193	7	14
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7627	80	86	197	115	115	197	7627	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4687	77	70	198	93	102	206	4687	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	8691	83	78	235	100	95	218	8691	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	13540	95	110	204	105	105	204	13540	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7231	83	84	197	95	104	207	7231	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8073	82	87	203	94	94	202	8073	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8902	89	99	208	100	113	222	8902	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7051	86	72	247	176	106	176	7051	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 180,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8134	83	87	206	117	112	202	8134	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	9961	92	88	213	101	99	210	9961	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.673076923076923	0.673076923076923	7703	80	86	197	115	115	197	7703	198	100	95	299	197	99	103	303	83	83	0	200	16	200	0	20
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4720	77	70	198	93	102	206	4720	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	8918	83	78	235	100	95	218	8918	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	13735	95	110	204	105	105	204	13735	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.833333333333333	7270	83	84	197	95	104	207	7270	196	94	100	303	206	103	107	307	103	102	1	199	1	199	1	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8153	82	87	203	94	94	202	8153	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8933	89	99	208	100	113	222	8933	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7073	86	72	247	176	106	176	7073	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 185,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8174	83	87	206	117	112	202	8174	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	9986	92	88	213	101	99	210	9986	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	7785	80	86	197	99	96	197	7785	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4754	77	70	198	93	102	206	4754	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	9148	83	78	235	100	95	218	9148	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	13937	95	110	204	105	105	204	13937	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7327	83	84	209	95	104	218	7327	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8232	82	87	203	94	94	202	8232	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	8969	89	99	208	100	113	222	8969	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7096	86	72	247	176	106	176	7096	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 190,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8213	83	87	206	117	112	202	8213	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	10011	92	88	213	101	99	210	10011	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	7896	80	86	197	99	96	197	7896	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4786	77	70	198	93	102	206	4786	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	9376	83	78	235	100	95	218	9376	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	14133	95	110	204	105	105	204	14133	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7392	83	84	209	95	104	218	7392	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8316	82	87	203	94	94	202	8316	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9006	89	99	208	100	113	222	9006	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7117	86	72	247	176	106	176	7117	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 195,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8252	83	87	206	117	112	202	8252	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	10036	92	88	213	101	99	210	10036	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8008	80	86	197	99	96	197	8008	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4831	77	70	198	93	102	206	4831	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	9603	83	78	235	100	95	218	9603	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	14336	95	110	204	105	105	204	14336	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7460	83	84	209	95	104	218	7460	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8396	82	87	203	94	94	202	8396	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9041	89	99	208	100	113	222	9041	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7140	86	72	247	176	106	176	7140	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 200,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8291	83	87	206	117	112	202	8291	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	10062	92	88	213	101	99	210	10062	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8123	80	86	197	99	96	197	8123	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4878	77	70	198	93	102	206	4878	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	9833	83	78	235	100	95	218	9833	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	14531	95	110	204	105	105	204	14531	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7527	83	84	209	95	104	218	7527	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8475	82	87	203	94	94	202	8475	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9085	89	99	208	100	113	222	9085	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7162	86	72	247	176	106	176	7162	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 205,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.796296296296296	0.796296296296296	8331	83	87	206	117	112	202	8331	206	100	100	307	202	107	103	303	91	90	0	200	17	200	0	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	10087	92	88	213	101	99	210	10087	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8235	80	86	197	99	96	197	8235	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4922	77	70	198	93	102	206	4922	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	10069	83	78	235	100	95	218	10069	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	14734	95	110	204	105	105	204	14734	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7596	83	84	209	95	104	218	7596	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8556	82	87	203	94	94	202	8556	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9133	89	99	208	100	113	222	9133	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7184	86	72	247	176	106	176	7184	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 210,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	8373	83	87	214	117	112	218	8373	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	10114	92	88	213	101	99	210	10114	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8345	80	86	197	99	96	197	8345	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	4969	77	70	198	93	102	206	4969	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	10291	83	78	235	100	95	218	10291	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	14930	95	110	204	105	105	204	14930	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7664	83	84	209	95	104	218	7664	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8636	82	87	203	94	94	202	8636	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9185	89	99	208	100	113	222	9185	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7207	86	72	247	176	106	176	7207	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 215,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	8513	83	87	214	117	112	218	8513	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	0.841121495327103	0.79646017699115	10139	92	88	213	101	99	210	10139	206	100	100	307	203	107	104	304	104	106	8	192	1	193	7	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8460	80	86	197	99	96	197	8460	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5014	77	70	198	93	102	206	5014	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	10521	83	78	235	100	95	218	10521	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	15123	95	110	204	105	105	204	15123	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7733	83	84	209	95	104	218	7733	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8715	82	87	203	94	94	202	8715	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9233	89	99	208	100	113	222	9233	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7230	86	72	247	176	106	176	7230	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 220,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	8654	83	87	214	117	112	218	8654	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10171	92	88	213	98	98	210	10171	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8574	80	86	197	99	96	197	8574	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5059	77	70	198	93	102	206	5059	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	10753	83	78	235	100	95	218	10753	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	1	0.98	15323	95	110	204	105	105	204	15323	203	106	106	298	203	98	98	298	98	98	2	198	0	198	2	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7800	83	84	209	95	104	218	7800	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8795	82	87	203	94	94	202	8795	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9280	89	99	208	100	113	222	9280	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7252	86	72	247	176	106	176	7252	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 225,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	8798	83	87	214	117	112	218	8798	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10209	92	88	213	98	98	210	10209	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8684	80	86	197	99	96	197	8684	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5104	77	70	198	93	102	206	5104	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	10978	83	78	235	100	95	218	10978	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	15544	95	110	204	61	70	204	15544	203	106	106	298	203	98	98	298	98	98	37	163	0	154	46	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7869	83	84	209	95	104	218	7869	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8874	82	87	203	94	94	202	8874	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9328	89	99	208	100	113	222	9328	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7276	86	72	247	176	106	176	7276	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 230,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9771	90	105	205	117	116	204	9771	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	8942	83	87	214	117	112	218	8942	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10243	92	88	213	98	98	210	10243	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8797	80	86	197	99	96	197	8797	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5151	77	70	198	93	102	206	5151	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	11211	83	78	235	100	95	218	11211	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	15891	95	110	213	61	70	224	15891	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	7939	83	84	209	95	104	218	7939	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	8958	82	87	203	94	94	202	8958	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9377	89	99	208	100	113	222	9377	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7298	86	72	247	176	106	176	7298	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 235,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9777	90	105	205	117	116	204	9777	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9086	83	87	214	117	112	218	9086	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10282	92	88	213	98	98	210	10282	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	8911	80	86	197	99	96	197	8911	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5195	77	70	198	93	102	206	5195	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	11437	83	78	235	100	95	218	11437	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	16239	95	110	213	61	70	224	16239	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.833333333333333	0.769230769230769	8007	83	84	209	95	104	218	8007	196	94	100	303	206	103	107	307	103	102	12	188	1	187	13	4
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9038	82	87	203	94	94	202	9038	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.981308411214953	0.954545454545455	9424	89	99	208	100	113	222	9424	205	100	113	306	219	106	107	307	107	106	3	197	0	197	3	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7321	86	72	247	176	106	176	7321	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 240,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9784	90	105	205	117	116	204	9784	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9229	83	87	214	117	112	218	9229	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10316	92	88	213	98	98	210	10316	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9027	80	86	197	99	96	197	9027	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5240	77	70	198	93	102	206	5240	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	11665	83	78	235	100	95	218	11665	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	16591	95	110	213	61	70	224	16591	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.888888888888889	0.8	8089	83	84	209	93	99	218	8089	196	94	100	303	206	103	107	307	107	103	13	187	0	186	14	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9118	82	87	203	94	94	202	9118	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	9532	89	99	233	100	113	246	9532	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7344	86	72	247	176	106	176	7344	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 245,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9792	90	105	205	117	116	204	9792	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9369	83	87	214	117	112	218	9369	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10356	92	88	213	98	98	210	10356	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9137	80	86	197	99	96	197	9137	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5288	77	70	198	93	102	206	5288	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	11894	83	78	235	100	95	218	11894	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	16944	95	110	213	61	70	224	16944	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.888888888888889	0.8	8178	83	84	209	93	99	218	8178	196	94	100	303	206	103	107	307	107	103	13	187	0	186	14	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9198	82	87	203	94	94	202	9198	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	9647	89	99	233	100	113	246	9647	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7367	86	72	247	176	106	176	7367	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 250,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9800	90	105	205	117	116	204	9800	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9510	83	87	214	117	112	218	9510	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10389	92	88	213	98	98	210	10389	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9250	80	86	197	99	96	197	9250	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5333	77	70	198	93	102	206	5333	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	12127	83	78	235	100	95	218	12127	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	17302	95	110	213	61	70	224	17302	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	8281	83	84	209	56	70	218	8281	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9278	82	87	203	94	94	202	9278	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	9761	89	99	233	100	113	246	9761	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7390	86	72	247	176	106	176	7390	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 255,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9808	90	105	205	117	116	204	9808	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9654	83	87	214	117	112	218	9654	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10426	92	88	213	98	98	210	10426	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9363	80	86	197	99	96	197	9363	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5378	77	70	198	93	102	206	5378	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	12352	83	78	235	100	95	218	12352	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	17655	95	110	213	61	70	224	17655	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	8448	83	84	209	56	70	218	8448	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9368	82	87	203	94	94	202	9368	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	9873	89	99	233	100	113	246	9873	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7412	86	72	247	176	106	176	7412	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 260,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9816	90	105	205	117	116	204	9816	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9795	83	87	214	117	112	218	9795	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10466	92	88	213	98	98	210	10466	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9474	80	86	197	99	96	197	9474	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5424	77	70	198	93	102	206	5424	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	12580	83	78	235	100	95	218	12580	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	18010	95	110	213	61	70	224	18010	203	106	106	298	203	98	98	298	98	98	57	143	0	145	55	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	8614	83	84	209	56	70	218	8614	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9457	82	87	203	94	94	202	9457	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	9989	89	99	233	100	113	246	9989	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7435	86	72	247	176	106	176	7435	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 265,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9824	90	105	205	117	116	204	9824	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	9938	83	87	214	117	112	218	9938	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10511	92	88	213	98	98	210	10511	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9584	80	86	197	99	96	197	9584	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5471	77	70	198	93	102	206	5471	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	12816	83	78	235	100	95	218	12816	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	18362	95	110	285	61	70	266	18362	203	106	106	298	203	98	98	298	98	98	99	101	0	73	127	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	8783	83	84	209	56	70	218	8783	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.933333333333333	0.882882882882883	9547	82	87	203	94	94	202	9547	203	100	100	304	202	104	103	303	103	104	6	194	0	194	6	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	10105	89	99	233	100	113	246	10105	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7457	86	72	247	176	106	176	7457	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 270,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.831775700934579	0.831775700934579	9832	90	105	205	117	116	204	9832	206	100	100	307	205	107	106	306	89	89	0	200	18	200	0	17
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	10084	83	87	214	117	112	218	10084	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10551	92	88	213	98	98	210	10551	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9697	80	86	197	99	96	197	9697	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5514	77	70	198	93	102	206	5514	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	13041	83	78	235	100	95	218	13041	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	18799	95	110	285	61	70	266	18799	203	106	106	298	203	98	98	298	98	98	99	101	0	73	127	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	8946	83	84	209	56	70	218	8946	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.914285714285714	0.8	9649	82	87	218	94	94	209	9649	203	100	100	304	202	104	103	303	103	104	13	187	0	179	21	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	10222	89	99	233	100	113	246	10222	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7480	86	72	247	176	106	176	7480	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 275,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.14018691588785	0.125	10005	90	105	285	1	24	292	10005	206	100	100	307	205	107	106	306	106	107	163	37	0	22	178	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	10224	83	87	214	117	112	218	10224	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10596	92	88	213	98	98	210	10596	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9812	80	86	197	99	96	197	9812	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5562	77	70	198	93	102	206	5562	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	13269	83	78	235	100	95	218	13269	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	19220	95	110	285	61	70	266	19220	203	106	106	298	203	98	98	298	98	98	99	101	0	73	127	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	9111	83	84	209	56	70	218	9111	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.914285714285714	0.8	9765	82	87	218	94	94	209	9765	203	100	100	304	202	104	103	303	103	104	13	187	0	179	21	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	10338	89	99	233	100	113	246	10338	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7502	86	72	247	176	106	176	7502	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+Testing the following parameters:
+struct_cost 280,
+### Begin Objective Function ###
+Filename	sps	spsmax	score	apsi	sci	PredlocalEndA	PredlocalStartA	PredlocalStartB	PredlocalEndB	Predscore	ReflocalEndA	ReflocalStartA	ReflocalStartB	RefsequenceLengthRawA	ReflocalEndB	RefsequenceLengthRefA	RefsequenceLengthRefB	RefsequenceLengthRawB	SeqBTp	SeqATp	SeqBFp	SeqBTn	SeqAFn	SeqATn	SeqAFp	SeqBFn	
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-90.sci-105.no-1.raw.fa	0.130841121495327	0.116666666666667	10328	90	105	285	1	24	292	10328	206	100	100	307	205	107	106	306	106	107	163	37	0	22	178	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-87.no-1.raw.fa	0.666666666666667	0.666666666666667	10364	83	87	214	117	112	218	10364	206	100	100	307	202	107	103	303	91	90	16	184	17	192	8	12
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-92.sci-88.no-1.raw.fa	1	0.922413793103448	10638	92	88	213	98	98	210	10638	206	100	100	307	203	107	104	304	104	107	9	191	0	191	9	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-80.sci-86.no-1.raw.fa	0.721153846153846	0.721153846153846	9926	80	86	197	99	96	197	9926	198	100	95	299	197	99	103	303	102	98	0	200	1	199	1	1
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-77.sci-70.no-1.raw.fa	0.814814814814815	0.814814814814815	5606	77	70	198	93	102	206	5606	197	95	100	303	205	103	106	306	104	103	1	199	0	197	3	2
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-78.no-1.raw.fa	0.647619047619048	0.566666666666667	13495	83	78	235	100	95	218	13495	202	100	95	303	197	103	103	303	103	103	21	179	0	167	33	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-95.sci-110.no-1.raw.fa	0.76530612244898	0.625	19646	95	110	285	61	70	266	19646	203	106	106	298	203	98	98	298	98	98	99	101	0	73	127	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-83.sci-84.no-1.raw.fa	0.685185185185185	0.616666666666667	9276	83	84	209	56	70	218	9276	196	94	100	303	206	103	107	307	107	103	42	158	0	149	51	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-82.sci-87.no-1.raw.fa	0.914285714285714	0.8	9881	82	87	218	94	94	209	9881	203	100	100	304	202	104	103	303	103	104	13	187	0	179	21	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-89.sci-99.no-1.raw.fa	0.934579439252336	0.833333333333333	10452	89	99	233	100	113	246	10452	205	100	113	306	219	106	107	307	107	106	27	173	0	172	28	0
+/scratch/bi01/miladim/Teresa/Bralibase-LocalAlignment/ModifiedBralibaseShuffledCon100/ModifiedBralibase/k2/U6/U6.apsi-86.sci-72.no-1.raw.fa	0.642201834862385	0.642201834862385	7526	86	72	247	176	106	176	7526	267	161	100	307	198	107	99	299	71	72	0	200	35	200	0	28
+### End Objective Function ###
+
+
+====================================
+====================================
+Run finished!
+Time: 12.1.2018 18:5:58 
+
+
+Results:
+struct_cost = 0	
+Value: 0
