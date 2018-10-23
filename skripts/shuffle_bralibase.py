@@ -3,6 +3,7 @@ import os
 from Bio import SeqIO
 #import pathlib
 from shutil import copyfile
+import argparse
 
 """Shuffle sequences of all Bralibase raw fasta files
 
@@ -30,12 +31,27 @@ Todo:
 
 ##import parameters
 
-bralibase_dir = '/home/muellert/Dokumente/locarna_parameteropt/Data/'
-bralibase_name = 'BRALIBASEk2'
+parser = argparse.ArgumentParser()
+ parser.add_argument('--bralibase_dir', dest='bralibase_dir', type=str,
+    default='/home/muellert/Dokumente/locarna_parameteropt/Data/',
+    help='bralibase dir to change')
+parser.add_argument('--bralibase_name', dest='bralibase_name', type=str,
+   default='BRALIBASEk2',
+   help='name of bralibase to change')
+parser.add_argument('--new_bralibase_dir', dest='new_bralibase_dir', type=str,
+   default='/home/muellert/Dokumente/locarna_parameteropt/Data/',
+   help='new bralibase dir')
+parser.add_argument('--new_bralibase_name', dest='new_bralibase_name', type=str,
+    default='BRALIBASE-SHUFFLED',
+    help='new bralibase name')
+
+
+#bralibase_dir = '/home/muellert/Dokumente/locarna_parameteropt/Data/'
+#bralibase_name = 'BRALIBASEk2'
 bralibase_path = bralibase_dir + bralibase_name
 
-new_bralibase_dir = '/home/muellert/Dokumente/locarna_parameteropt/Data/'
-new_bralibase_name = 'BRALIBASE-SHUFFLED'
+#new_bralibase_dir = '/home/muellert/Dokumente/locarna_parameteropt/Data/'
+#new_bralibase_name = 'BRALIBASE-SHUFFLED'
 new_bralibase_path = new_bralibase_dir + new_bralibase_name
 shuffle_fasta_tool = 'fasta-shuffle-letters -kmer 2 '
 
