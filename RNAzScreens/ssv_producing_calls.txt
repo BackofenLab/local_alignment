@@ -1,0 +1,7 @@
+90105  24/10/18 11:36:57 for aln in Results-forward-20181023/*/*/results/result_prog.aln; do cat $aln | grep DroMel | awk '{print $2}' | sed 's/-//g' | tr -d '\n'  | echo $(wc -c) $aln > $aln.DroMel.len; done
+90131  24/10/18 11:45:12 for input in Results-forward-20181023/*/*/input/input.fa; do cat $input | grep DroMel -A 1 | tr '\n' ' ' | awk '{print $2,$3,length($5)}' | sed 's/\S\+_context=//g' | sed 's/;//g' > $input.DroMel.lens; done
+90140  24/10/18 11:52:04 for ent in Results-forward-20181023/*/*/; do paste -d " " $ent/input/input.fa.DroMel.lens $ent/results/result_prog.aln.DroMel.len > $ent/inout_lens.ssv; done
+90148  24/10/18 11:56:07 for loc in Results-forward-20181023/X_locus8561/; do paste -d " " $loc/*/inout_lens.ssv > $loc/inout_lens_aln_settings.ssv; done
+90150  24/10/18 11:56:24 for loc in Results-forward-20181023/*/; do paste -d " " $loc/*/inout_lens.ssv > $loc/inout_lens_aln_settings.ssv; done
+90152  24/10/18 11:57:39 cat Results-forward-20181023/*/inout_lens_aln_settings.ssv > Results-forward-20181023-inout_lens_aln_settings.ssv
+
