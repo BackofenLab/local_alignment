@@ -4,3 +4,5 @@ The idea is to invetigate structure scoring effects in sankoff-like alignments f
 Since the sturcture contribution for the score is almost always positive the score alignment-length dependence and the correct boundary detection would need to be investigated. 
 This investigation is implemented by using a state of the art sankoff-like alignment LocARNA as a representatvie.
 
+![grapical abstaract](./figure/graphical-abstract.pdf)
+
