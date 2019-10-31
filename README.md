@@ -7,5 +7,11 @@ This investigation is implemented by using a state of the art sankoff-like align
 ![grapical abstaract](./figure/graphical-abstract.svg)
 
 This reposetory contains:
-- [local alignment benchmarksets](./benchmark_sets)
-- [some test data to quickliy check code using a local benchmankset](./test_data)
+- [Local alignment benchmarksets](./benchmark_sets)
+- [Some test data to quickliy check code using a local benchmankset](./test_data)
+-[A analysis of free enegrys of random an ncRNAs](./FreeEnergy_analysis)
+-[Notebooks for plotting the results](./analysis_notebooks)
+-[analysiz data for different parameter combinations](./data)
+-[Figures used in the publication](./figure)
+-[Shuffeling lib](./lib)
+-[Skripts](./skripts)
