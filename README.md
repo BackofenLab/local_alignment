@@ -6,3 +6,6 @@ This investigation is implemented by using a state of the art sankoff-like align
 
 ![grapical abstaract](./figure/graphical-abstract.svg)
 
+This reposetory contains:
+- [local alignment benchmarksets](./benchmark_sets)
+- [some test data to quickliy check code using a local benchmankset](./test_data)
