@@ -56,7 +56,7 @@ conda install locarna
     --penalized=0 --sequ-local=off" input.fa --moreverbose -v
 ```
 
--local mode LocRNA call using local-opt parameters
+- local mode LocRNA call using local-opt parameters
 ```
    mlocarna --tgtdir /some/dir/ --max-diff-am -1 --min-prob 0.0005 
    --indel -136 --indel-opening -975 --struct-weight 115 --tau 38
