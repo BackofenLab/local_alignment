@@ -28,8 +28,11 @@ Paramters where optimized for LocARNA running in global mode using position-wise
 Results of the publication fo the reposetory where computed using [LocRNA v2.0.0RC6](https://github.com/s-will/LocARNA/releases/tag/v2.0.0RC6)
 This version can be installed using conda:
 ```
-conda install locarna
+conda install locarna=2.0.0RC6
 ```
+If you need to install Conda please check here:
+[how to install Conda](https://bioconda.github.io/user/install.html#install-conda)
+
 ### LocRNA calls using differen parameters
 
 - globel mode LocRNA call using default parameters
